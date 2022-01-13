@@ -7,6 +7,13 @@ public class Test2 {
 	public static void m1() {
 		System.out.println("call m1");
 		
+		
+	}
+	// Khushboo
+	public static void m2() {
+		System.out.println("call m2-- ");
+		
+		
 	}
 
 }
